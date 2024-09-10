@@ -26,7 +26,7 @@ Bu PyQt6 tabanlı uygulama, Anime izlemeyi kolaylaştırmak için tasarlanmışt
 
 ## Katkıda Bulunma
 
-Bu proje açık kaynak kodludur ve herkesin katkıda bulunmasına açıktır.  Yeni özellikler eklemek, hataları düzeltmek veya geliştirmeler yapmak isterseniz çeki oluşturmaktan çekinmeyin.
+Bu proje açık kaynak kodludur ve herkesin katkıda bulunmasına açıktır.  Yeni özellikler eklemek, hataları düzeltmek veya geliştirmeler yapmak isterseniz pull oluşturmaktan çekinmeyin.
 
 
 ## Teşekkürler
